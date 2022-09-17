@@ -5,12 +5,8 @@
 
 Here are some ideas to get you started:
 
--->
-
 -I’m @furqanahmed2526 
 -Interested in Coding. 
-- I’m looking to collaborate on python.
+-I’m looking to collaborate on python.
 -Contact me on 786ahmedfurqan@gmail.com 
 -Instagram: i.ahmed0_0
-
--->
